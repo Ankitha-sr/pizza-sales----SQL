@@ -45,6 +45,7 @@ MySQL Workbench – writing and running queries, importing CSV files
 
 1) create a database in MySQL
 >> CREATE DATABASE pizzahut;
+
 >> USE pizzahut;
 2) Import pizzas.csv and pizza_types.csv using MySQL Workbench's Table Data Import Wizard (right-click the database → Table Data Import Wizard).
 3) Run analysis_1.sql to create the orders and order_details tables, then import orders.csv and order_details.csv into them.
