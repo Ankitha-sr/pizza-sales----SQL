@@ -53,6 +53,6 @@ MySQL Workbench – writing and running queries, importing CSV files
 
 **About Me**
 
-Name: Ankitha Sujatha Raju
-LinkedIn: https://www.linkedin.com/in/asujatharaju
+Name: Ankitha Sujatha Raju ;
+LinkedIn: https://www.linkedin.com/in/asujatharaju ;
 GitHub: https://github.com/Ankitha-sr
