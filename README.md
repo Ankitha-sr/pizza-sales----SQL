@@ -22,14 +22,23 @@ MySQL – database and queries
 MySQL Workbench – writing and running queries, importing CSV files
 
 ├── analysis_1.sql        # Table creation (schema setup)
+
 ├── analysis_2.sql        # Basic analysis
+
 ├── analysis_3.sql        # Intermediate analysis
+
 ├── analysis_4.sql        # Advanced analysis
+
 ├── orders.csv
+
 ├── order_details.csv
+
 ├── pizzas.csv
+
 ├── pizza_types.csv
+
 ├── analysis_questions     # questions we are analysing
+
 └── README.md              # current file
 
 **How to Run**
